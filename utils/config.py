@@ -1,0 +1,6 @@
+YANDEX_PASSPORT_API_URL = "https://passport.yandex.com"
+YANDEX_DISK_API_URL = "https://cloud-api.yandex.net/v1/disk/resources/files"
+EMAIL = "anwar-qa"
+PASSWORD = "Test_qa_automation"
+TOKEN = "y0_AgAAAABxj1CyAADLWwAAAADvyJ3GKLQJ-1oISjq18yJOsDSg0u6i4X0"
+LOGOUT_URL = "https://passport.yandex.ru/logout"
